@@ -52,7 +52,7 @@ export const SkillsData = [
   {
     id: 7,
     skillName: 'Next.js',
-    image: '/logo/next.png',
+    image: '/logo/next.svg',
     width: 70,
     height: 70,
     skillLevel: 4,
@@ -87,7 +87,7 @@ export const SkillsData = [
   {
     id: 11,
     skillName: 'Express.js',
-    image: '/logo/express.png',
+    image: '/logo/express.svg',
     width: 70,
     height: 70,
     skillLevel: 4,
@@ -141,7 +141,7 @@ export const SkillsData = [
   {
     id: 17,
     skillName: 'Ubuntu',
-    image: '/logo/ubuntu.png',
+    image: '/logo/ubuntu.svg',
     width: 70,
     height: 70,
     skillLevel: 3,
@@ -149,7 +149,7 @@ export const SkillsData = [
   {
     id: 18,
     skillName: 'Linux',
-    image: '/logo/linux.png',
+    image: '/logo/linux.svg',
     width: 70,
     height: 70,
     skillLevel: 3,
@@ -157,7 +157,7 @@ export const SkillsData = [
   {
     id: 19,
     skillName: 'Postman',
-    image: '/logo/postman.png',
+    image: '/logo/postman.svg',
     width: 70,
     height: 70,
     skillLevel: 4,
