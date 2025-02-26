@@ -56,12 +56,7 @@ const Services = () => {
               <div className="flex w-60 aspect-square m-auto border border-[#252134] rounded-full">
                 <div className="w-[6rem] m-auto aspect-square p-[0.2rem] rounded-full border border-[#252134]">
                   <div className="flex items-center justify-center w-full h-full z-50">
-                    <Image
-                      src="/baby-yoda.svg"
-                      width={40}
-                      height={40}
-                      alt="Baby yoda icon"
-                    />
+              
                   </div>
                 </div>
               </div>

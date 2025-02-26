@@ -24,14 +24,6 @@ const Loader = () => {
           animate={{ rotate: 360 }}
           transition={{ repeat: Infinity, duration: 1.5, ease: 'linear' }}
         />
-        <div className="absolute w-16 h-16">
-          <Image
-            src="/baby-yoda.svg"
-            width={64}
-            height={64}
-            alt="Loading icon"
-          />
-        </div>
       </div>
     </div>
   );
