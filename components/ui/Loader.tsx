@@ -26,7 +26,7 @@ const Loader = () => {
         />
         <div className="absolute w-16 h-16">
           <Image
-            src="/baby-yoda.png"
+            src="/baby-yoda.svg"
             width={64}
             height={64}
             alt="Loading icon"
