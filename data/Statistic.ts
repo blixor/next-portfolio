@@ -16,8 +16,8 @@ export const statisticsData = [
   {
     id: 3,
     icon: '/experience.svg',
-    number: 4,
-    description: 'Software Experience',
+    number: 7,
+    description: 'Developing Experience',
     suffix: ' years',
   },
   {
