@@ -86,6 +86,7 @@ export const ServicesApps = [
     width: 35,
     height: 40,
   },
+  
   {
     id: 10,
     title: 'Linux',
