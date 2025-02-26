@@ -68,7 +68,7 @@ export const ServicesApps = [
   {
     id: 7,
     title: 'Spring',
-    icon: '/logo/spring.png',
+    icon: '/logo/spring.svg',
     width: 60,
     height: 60,
   },
@@ -89,7 +89,7 @@ export const ServicesApps = [
   {
     id: 10,
     title: 'Linux',
-    icon: '/logo/linux.png',
+    icon: '/logo/linux.svg',
     width: 40,
     height: 60,
   },
