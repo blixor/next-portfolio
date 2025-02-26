@@ -60,8 +60,8 @@ const Hero = () => {
           </h2>
           <h4 className="md:text-xl text-base font-medium text-gray-400 items-center mt-1 mb-[-6px] italic flex ">
             <Image
-              src="/flag.png"
-              alt="Sweden Flag"
+              src="/flag.svg"
+              alt="Singapore Flag"
               width={48}
               height={10}
               className="mr-2 rounded"
