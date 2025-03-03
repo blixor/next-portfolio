@@ -37,7 +37,7 @@
     "autoprefixer": "^10",
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
-    "framer-motion": "^10.18.0",
+    "framer-motion": "^12.4.10",
     "maath": "^0.10.7",
     "postcss": "^8",
     "prettier": "^3.3.2",
